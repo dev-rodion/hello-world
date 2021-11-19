@@ -1,7 +1,7 @@
 body {
   padding: 20px;
   background-color: #1c2128;
-  font-family: monospace;
+  font-family: 'PT Mono', monospace;
   color: #fff;
   text-align: center;
 }
@@ -10,7 +10,7 @@ img {
   margin: 0 10px
 }
 
-.images {
+.images_box {
   display: flex;
   align-items: center;
   justify-content: center;
