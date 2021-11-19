@@ -1,5 +1,17 @@
 body {
+  padding: 20px;
+  background-color: #1c2128;
   font-family: monospace;
   color: #fff;
-  background-color: #1c2128;
+  text-align: center;
+}
+
+img {
+  margin: 0 10px
+}
+
+.images {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
